@@ -13,3 +13,7 @@ display(ex1);
 ex2 = "Hello Hannah"
 
 display(ex2); 
+
+ex3 = "Bye Felecia"
+
+display(ex3);
