@@ -4,16 +4,20 @@
 
 ex = "Hello World";
 
-display(ex);
+disp(ex);
 
-ex1 = "Hello Alex" 
+ex1 = "Hello Alex" ;
 
-display(ex1);
+disp(ex1);
 
-ex2 = "Hello Hannah"
+ex2 = "Hello Hannah";
 
-display(ex2); 
+disp(ex2); 
 
-ex3 = "Bye Felecia"
+ex3 = "Bye Felecia";
 
-display(ex3);
+disp(ex3);
+
+ex4 = "hi this is complicated code";
+
+disp(ex4);
